@@ -1,0 +1,5 @@
+The .ipynb_checkpoints folder is a special directory created by Jupyter Notebook to store checkpoints of your notebooks. 
+Jupyter Notebook is an interactive coding environment that allows you to create and edit documents containing code, text, and graphics. Checkpoints are snapshots of your notebook's state, automatically saved as you work. They serve as backups that help prevent data loss in case of unexpected issues or closures. The .ipynb_checkpoints folder is where these checkpoints are stored, providing a safety net for your work.
+
+.ipynb_checkpoints フォルダは、Jupyter Notebook によって作成された特別なディレクトリで、ノートブックのチェックポイントを保存するためのものです。
+Jupyter Notebook はコード、テキスト、グラフィックを含むドキュメントを作成および編集するための対話的なコーディング環境です。チェックポイントは、作業中に自動的に保存されるノートブックの状態のスナップショットであり、予期せぬ問題や閉じる際のデータ損失を防ぐバックアップとして機能します。.ipynb_checkpoints フォルダはこれらのチェックポイントが保存される場所であり、作業の安全性を提供します。
