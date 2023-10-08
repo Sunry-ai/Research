@@ -1,0 +1,8 @@
+
+This folder contains the data used for this experiment. We have roughly categorized it into three types: [simple], [middle], and [hard]. 
+These categorizations are determined based on the number of variables and constraints. For more details, please refer to the wiki. We will call and read these .mps data in our code for solving.
+
+
+このフォルダには、この実験で使用されるデータが含まれています。
+我々は変数の数と制約式の数に基づいて、大まかに [simple]、[middle]、[hard] の3つのタイプに分類しました。これらの分類は、詳細についてはウィキをご参照ください。
+我々はこれらの .mps データを呼び出し、コード内で読み取って問題を解決します。
