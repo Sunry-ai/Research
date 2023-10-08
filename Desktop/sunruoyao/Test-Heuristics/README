@@ -1,0 +1,29 @@
+Here, I tested the functionality of heuristics and whether it is possible to control the frequency of heuristic runs for each node under the PyScipopt interface. I mainly used the Rins heuristic for testing.
+
+ここでは、ヒューリスティックの機能性と、PyScipoptインターフェースの下で各ノードのヒューリスティック実行頻度を制御できるかどうかをテストしました。主にテストにはRinsヒューリスティックを使用しました。
+
+The file structure of this folder is as follows:
+このフォルダのファイル構造は次のとおりです：
+.
+├── Jupyter-notebook-data
+│   ├── test-Heuristics-freq-change.ipynb
+│   └── test-Heuristics.ipynb
+├── README
+├── Results
+│   ├── 002
+│   │   ├── 002_freq_1.txt
+│   │   ├── 002_freq_10.txt
+│   │   ├── 002_freq_3.txt
+│   │   ├── 002_freq_3to5_10w_node.txt
+│   │   └── 002_freq_5.txt
+│   └── mark
+│       ├── mark2_freq_3to5_1w_node.txt
+│       ├── mark_freq_3to5_1w_node.txt
+│       └── markl-hruristics-freq
+│           ├── best_solution_0.5.txt
+│           ├── best_solution_1.txt
+│           ├── best_solution_10.txt
+│           ├── best_solution_3.txt
+│           └── best_solution_5.txt
+├── test-Heuristics-freq-change.py
+└── test-Heuristics.py
