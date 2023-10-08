@@ -1,0 +1,4 @@
+Optimal Solution Found:
+Objective value: -4783.733391599999
+node: 5025839
+time: 1436.7037208080292

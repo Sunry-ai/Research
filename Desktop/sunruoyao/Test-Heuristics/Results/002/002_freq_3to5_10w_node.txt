@@ -1,0 +1,3 @@
+Optimal Solution Found:
+node_count_fun: 2220418
+time: 246.87737202644348

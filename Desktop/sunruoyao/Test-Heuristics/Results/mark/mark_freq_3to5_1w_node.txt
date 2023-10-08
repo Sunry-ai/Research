@@ -1,0 +1,2 @@
+Objective value: 6.0
+node_count_fun: 59894
