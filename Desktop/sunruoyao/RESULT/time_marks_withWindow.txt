@@ -1,0 +1,542 @@
+No H:
+model.setIntParam("heuristics/rins/freq",-1)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 270.06
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (920 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+第二回
+Solving Time (sec) : 312.76
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (920 solutions)
+Gap                : 0.00 %
+
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 309.64
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (920 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",0)------ the heuristic is only called at the root node
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 242.28
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (919 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 283.68
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (919 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 375.43
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (919 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",1)-------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 292.76
+Solving Nodes      : 2220418 (total of 2221535 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (925 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+第二回
+Solving Time (sec) : 369.70
+Solving Nodes      : 2220418 (total of 2221535 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (925 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 312.26
+Solving Nodes      : 2220418 (total of 2221535 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (925 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",5)-------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 298.82
+Solving Nodes      : 2220418 (total of 2221535 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (927 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 348.32
+Solving Nodes      : 2220418 (total of 2221535 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (927 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 290.65
+Solving Nodes      : 2220418 (total of 2221535 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (927 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",10)-------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 340.80
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (917 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 287.83
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (917 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 253.79
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (917 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",100)-------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 293.20
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (919 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 268.86
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (919 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 254.79
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (919 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+-------------------------------------------------------------
+-------------------------------------------------------------
+Marks------------------------------------
+1w
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 247.51
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (918 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+5k
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 274.18
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (918 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+2k
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 321.49
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (918 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+1k
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 416.99
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (918 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+
+500
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 498.23
+Solving Nodes      : 2167432 (total of 2168673 nodes in 2 runs)
+Primal Bound       : +1.00000000000000e+00 (918 solutions)
+Dual Bound         : +1.00000000000000e+00
+Gap                : 0.00 %
+-------------------------------------------------------------
+-------------------------------------------------------------
+-----------------------IP002---------------------------------
+No H:
+model.setIntParam("heuristics/rins/freq",-1)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1533.57
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (799 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1724.06
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (799 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1507.46
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (799 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",0)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1615.52
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1570.79
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1542.40
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",1)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1612.23
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (794 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1725.76
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (794 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1608.45
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (794 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",5)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1846.85
+Solving Nodes      : 5917298 (total of 5918343 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (765 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2150.62
+Solving Nodes      : 5917298 (total of 5918343 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (765 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2126.97
+Solving Nodes      : 5917298 (total of 5918343 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (765 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",10)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1967.65
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (794 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1733.79
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (794 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1526.56
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (794 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",100)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1556.60
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1514.42
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+第三回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1575.17
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+-------------------------------------------------------------
+--------------------IP002 with model--------------------------------
+WINDOW = 10K
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1539.88
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+WINDOW = 5K
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1533.15
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+WINDOW = 2K
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1644.82
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+WINDOW = 1K
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1878.24
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+
+WINDOW = 500
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2673.14
+Solving Nodes      : 5025839 (total of 5026907 nodes in 2 runs)
+Primal Bound       : -4.78373339160000e+03 (796 solutions)
+Dual Bound         : -4.78373339160000e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+-------------------------------------------------------------
+-----------------------IP054---------------------------------
+model.setIntParam("heuristics/rins/freq",-1)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2154.10
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2281.28
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2394.16
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",0)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2335.40
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2148.34
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2024.66
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",1)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2073.33
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (966 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2099.25
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (966 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2163.13
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (966 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",5)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2064.61
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+第二回
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2152.86
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2078.25
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",10)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2055.10
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 1988.84
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2408.30
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+model.setIntParam("heuristics/rins/freq",100)------
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2296.62
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2048.76
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2155.16
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+-------------------------------------------------------------
+
+-------------------------------------------------------------
+--------------------IP054 with model--------------------------------
+WINDOW = 10K
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2261.95
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 3161.22
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 2852.54
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 3668.33
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
+
+SCIP Status        : problem is solved [optimal solution found]
+Solving Time (sec) : 5161.73
+Solving Nodes      : 8043915 (total of 8044955 nodes in 2 runs)
+Primal Bound       : +6.84096564179200e+03 (968 solutions)
+Dual Bound         : +6.84096564179200e+03
+Gap                : 0.00 %
